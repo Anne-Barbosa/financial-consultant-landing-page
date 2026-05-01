@@ -21,6 +21,7 @@ This project focuses on layout structure, Flexbox, and clean UI design.
 ## Project Structure
 
 ├── index.html
+
 └── styles.css
 
 ## Purpose
