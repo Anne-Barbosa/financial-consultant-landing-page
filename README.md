@@ -1,4 +1,4 @@
-# Financial Consultant Landing Page
+# Financial Consultant Landing Page 
 
 A responsive landing page for a financial consulting service, built with HTML and CSS. 
 This project focuses on layout structure, Flexbox, and clean UI design.
